@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Kalicheti Ajay Kumar, The Developer  
+- Certification: Meta Back-End Developer Professional Certificate  
 
 ## Instructions
 Please replace the placeholders with your details:
